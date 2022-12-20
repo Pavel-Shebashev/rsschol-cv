@@ -1,0 +1,17 @@
+.mil{
+    background-color: cadetblue;
+    border: 1px solid rgb(222, 135, 135);
+    padding: 5px;
+}
+
+h2{
+    color: blue;
+}
+main{
+    position: relative;
+    left: 400px;
+}
+section{
+    margin-top: 30px;
+    margin-left:  60px;
+}
