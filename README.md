@@ -1,3 +1,3 @@
 # rsschol-cv
 
- https://Pavel-Shebashev.github.io/rsschool-cv/ 
+ https://pavel-shebashev.github.io/rsschol-cv/
